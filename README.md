@@ -5,7 +5,7 @@ Interactive AI-powered cybersecurity awareness simulator built with AWS PartyRoc
 **Short:** An interactive, no-code cybersecurity simulator built with AWS PartyRock that generates phishing emails, roleplay scenarios, and offers tailored remediation.
 
 ## Demo
-- Live PartyRock app: (link to your shared PartyRock URL)
+- Live PartyRock app: https://partyrock.aws/u/rahil2/XtudHOV4m/Cyber-Mjanja-Kuwa-Mjanja-Kuwa-Salama
 - GIF/screenshots: /assets
 
 ## Features
