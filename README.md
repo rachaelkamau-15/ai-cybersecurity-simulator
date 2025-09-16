@@ -34,14 +34,17 @@ Interactive AI-powered cybersecurity awareness simulator built with AWS PartyRoc
 
 ## Screenshots
 
+## Screenshots
+
 ### Home Page
-![Simulator home](assets/1.png)
+![Simulator home](1.png)
 
 ### Phishing Email Scenario
-![Phishing example](assets/2.png)
+![Phishing example](2.png)
 
 ### Roleplay Chat Scenario
-![Roleplay example](assets/3.png)
+![Roleplay example](3.png)
+
 
 ---
 
