@@ -1,6 +1,3 @@
-# ai-cybersecurity-simulator
-Interactive AI-powered cybersecurity awareness simulator built with AWS PartyRock - trains users to detect phishing, social engineering, and unsafe practices through realistic scenarios.
-
 # AI Cybersecurity Awareness Simulator (PartyRock)
 
 **Short:** An interactive, no-code cybersecurity simulator built with AWS PartyRock that generates phishing emails, roleplay scenarios, and offers tailored remediation.
